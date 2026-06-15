@@ -2,7 +2,6 @@
 ----------------------------------------------------------- 1. The Workflow ----------------------------------------------------------
 The process is divided into three major steps:
 
-Plaintext
 [Your Client] ---> 1. Authentication (Client Credentials) ---> [Spotify Accounts API]
       ^                                                              |
       | <------------- Receives Access Token ------------------------v
